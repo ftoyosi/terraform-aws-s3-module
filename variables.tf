@@ -12,5 +12,5 @@ variable "s3_bucket_name" {
 variable "key_name" {
   type        = string
   description = "Name of the key"
-  default     = "bootcamp-key"
+  default     = "bootcamp-key123"
 }
